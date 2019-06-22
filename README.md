@@ -5,7 +5,7 @@ The idea is to create a bmi cal with the follpwing instruction. This assesment i
 # Challenge  1
 
 
-# Build & Style The UI
+Build & Style The UI
 Your app needs some UI elements. Follow the steps below to build it, then click the play button to run your code and see the outcome in the preview emulator.
 
 Step 1
