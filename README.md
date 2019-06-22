@@ -2,10 +2,10 @@
 
 The idea is to create a bmi cal with the follpwing instruction. This assesment if from andela.
 
-Challenge  1
+# Challenge  1
 
 
-Build & Style The UI
+# Build & Style The UI
 Your app needs some UI elements. Follow the steps below to build it, then click the play button to run your code and see the outcome in the preview emulator.
 
 Step 1
@@ -57,7 +57,7 @@ Step 6
 The BUTTON with ID of oracle should have 2.5em top margin, solid 1px border, and occupy the available horizontal space.
 
 
-Challenge 2
+# Challenge 2
 
 Make The UI Functional
 Your app looks good, its time to power up the UI and make it respond to user interaction.
@@ -107,7 +107,7 @@ Next, use Object.keys(..) to get the collection of properties of user. Assign it
 Iterate over properties with the array .forEach function, and display the properties in the UI. Hint: * a given property like *Age has a corresponding SPAN element with a data-age-value attribute. You can use ES6 template strings to build the query selector targeting the SPAN for that property, and then query the DOM with it. You also want to make sure you only update the UI if the DOM query was successful. Good luck!
 
 
-Challenge 3
+# Challenge 3
 
 Calculate BMI
 You've got sample user data that gets displayed when a selection is made. Lets give BMEye the power to see through people by calculating their BMI (Body Mass Index).
@@ -133,7 +133,7 @@ Run your code (click on the play button), select the sample user and see if/how 
 Double check that your BMI computation is correct. Well, you can bet Gradr will make sure of that!
 
 
-Challenge 4
+# Challenge 4
 
 Use Remote API Data
 To have gotten here, you are definitely a rockstar.
